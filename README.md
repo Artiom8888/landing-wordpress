@@ -94,3 +94,6 @@ For testing and development, you can use [InfinityFree](https://infinityfreeapp.
 - Custom domain support
 - MySQL databases
 - PHP 8.0 support
+
+## Live Demo
+You can view the live theme at: [https://whiteandblack.infinityfreeapp.com/](https://whiteandblack.infinityfreeapp.com/)
